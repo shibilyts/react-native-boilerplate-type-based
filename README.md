@@ -19,7 +19,7 @@ and redux persist. Uses latest version of react-navigation (v5)
 
 This Type based Architecture scales smoothly for small - medium apps. If you guys are building a very large application I would suggest using the following feature based architecture which will be more developer friendly with ease of scaling.
 
-[React-Native-Feature-BoilerPlate](https://github.com/victorkvarghese/react-native-feature-boilerplate)
+[React-Native-Feature-BoilerPlate](https://github.com/shibilyts/react-native-boilerplate-type-based.git)
 
 ## Projects using this BoilerPlate
 
